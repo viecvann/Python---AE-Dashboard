@@ -3,4 +3,4 @@ In this project I will go through an Accident and Emergency dataset for a hospit
 I wanted to showcase the service performance and highlight KPIs, such as patient wait times and their satisfaction scores.
 My aim was to utilise several data analytical tools optimally, so that I could create an accurate dashboard report that would enable stakeholders to gain a thorough understanding of the information presented to them.
 
-I will go through A&amp;E dataset in Python and create visuals in Power BI
+I will be using Python to clean and inspect the dataset and create visualisations in Power BI.
